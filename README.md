@@ -1,6 +1,14 @@
-* Optional exercise for intermediate level
+<h1>Optional exercise for intermediate level</h1>
+
+The goal of this exercise is to allow the user to actually choose the hand they want to play rather than letting the game choose for them.
 
 ** 4a
+In the index.html file replace the button at line 30:
+```
+<div class="play-btn" id="play-btn">Let's Play!</div>
+```
+
+with 3 new buttons
 
 ```
 <div class="play-btn" id="rock">✊</div>
